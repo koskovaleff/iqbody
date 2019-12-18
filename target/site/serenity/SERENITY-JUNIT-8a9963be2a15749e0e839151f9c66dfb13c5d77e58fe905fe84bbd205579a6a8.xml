@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="WhenSignUp" skipped="0" tests="1" time="17.4" timestamp="2019-12-11 08:18:50"><testcase classname="WhenSignUp" name="Login with empty credential"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="WhenSignUp" skipped="0" tests="1" time="20.95" timestamp="2019-12-18 06:48:38"><testcase classname="WhenSignUp" name="Login with empty credential"/></testsuite>

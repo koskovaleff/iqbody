@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="WhenSignUp" time="27.483" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="WhenSignUp" time="32.296" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="12.0.1+12"/>
@@ -63,5 +63,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="WhenSignUp" name="loginWithEmptyCredential" time="17.59"/>
+  <testcase classname="WhenSignUp" name="loginWithEmptyCredential" time="21.018"/>
 </testsuite>

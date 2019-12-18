@@ -6,7 +6,7 @@ import testpackage.pages.SignUpPage;
 public class SignUpSteps {
     private SignUpPage page;
 
-    @Step("Open page")
+    @Step("User open page")
     public void openSignUpPage() {
         page.open();
     }
